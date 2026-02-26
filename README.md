@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tech-ho1ic&label=Profile%20views&color=0e75b6&style=flat" alt="tech-ho1ic" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tech-ho1ic" alt="tech-ho1ic" /></a> </p>
-
 I'm a student and aspiring software developer with a passion for building efficient and creative software solutions. I'm currently exploring Data Structures & Algorithms (DSA) and Computer Networking to level up my problem-solving skills and understanding of how systems work.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
